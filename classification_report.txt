@@ -1,0 +1,18 @@
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      Raga_1       0.92      0.94      0.93        40
+      Raga_2       0.94      0.91      0.92        35
+      Raga_3       0.91      0.95      0.93        42
+      Raga_4       0.95      0.93      0.94        38
+      Raga_5       0.96      0.96      0.96        30
+      Raga_6       0.93      0.90      0.91        36
+      Raga_7       0.89      0.92      0.91        31
+      Raga_8       0.94      0.95      0.95        35
+      Raga_9       0.90      0.92      0.91        38
+     Raga_10       0.98      0.94      0.96        45
+
+    accuracy                           0.93       370
+   macro avg       0.93      0.93      0.93       370
+weighted avg       0.93      0.93      0.93       370
